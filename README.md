@@ -1,0 +1,3 @@
+# ecomAPI
+
+sudo yarn start
